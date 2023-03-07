@@ -1,47 +1,26 @@
 ---
 sidebar_position: 1
+slug: i
 ---
 
-# Tutorial Intro
+# Бауманский кампус - строим будущее
 
-Let's discover **Docusaurus in less than 5 minutes**.
+По дороге от метро до Главного учебного корпуса МГТУ сейчас сложно не заметить, что с каждым днем вокруг появляется все больше новых зданий. Стена за стеной возводятся новые корпуса будущего кампуса Бауманского университета. В день науки, 8 февраля, Мэр Москвы и Заместитель Председателя Правительства РФ посетили МГТУ им. Баумана и проверили ход строительства нового кампуса. Сдача зданий запланирована на последний квартал 2023 года.
 
-## Getting Started
+![](campuses/images/into.jpeg)
 
-Get started by **creating a new site**.
+16 марта 2021 года в зале Ученого совета МГТУ им. Н.Э. Баумана состоялась пресс-конференция, посвященная реализации масштабного проекта нового бауманского кампуса, на которой главный архитектор Москвы, первый заместитель председателя Москомархитектуры Сергей Кузнецов представил концепт развития бауманского Университета, поделился планами на будущее и ответил на вопросы журналистов и представителей СМИ.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Наши коллеги из Архсовета Москвы взяли интервью у Сергея Кузнецова, в рамках которого эти вопросы были обсуждены более детально, а также обновив информацию о том, как идет строительство спустя год. 
 
-### What you'll need
+Студенты МГТУ им. Баумана будут учиться в одном из самых инновационных образовательных кластеров в мире. Современная архитектура, соседствующая с исторической застройкой, целый комплекс культурно-досуговых площадок, лаборатории, оснащенные по последнему слову техники, и конечно, накопленные за десятилетия опыт и знания.
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+Проект подразумевает строительство 170 тысяч квадратных метров новых площадей, а также реставрацию старинных зданий, которые приспособят для работы, обучения студентов, научной и исследовательской деятельности. Образовательные площади увеличатся в полтора раза.
 
-## Generate a new site
+> «Учебные и административные корпуса университета расположены в центре Москвы на набережной Яузы. Это знаковое место как в плане городской жизни, так и в отношении научного прогресса. Строительство нового кампуса очень важно для развития МГТУ им. Баумана. Получить новые объемы — а это и учебные корпуса, и лаборатории для научных исследований, и общежития для приезжающих студентов — было насущной необходимостью для университета. Эти новые площади выведут Бауманку на более высокий уровень и помогут встать в один ряд с ключевыми техническими университетами мира»,
+> 
+> – отметил Сергей Кузнецов.
 
-Generate a new Docusaurus site using the **classic template**.
+СМОТРИТЕ СПЕЦИАЛЬНЫЙ ВЫПУСК ПРОГРАММЫ “ГОРОДСКИЕ ТЕХНОЛОГИИ” О БАУМАНСКОМ КАМПУСЕ
 
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/9NvTNFpjKQI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
